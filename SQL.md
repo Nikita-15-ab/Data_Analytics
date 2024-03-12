@@ -29,6 +29,8 @@
 8. Use of WHERE
 
 ![Screenshot 2024-03-13 001904](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/70557d22-2080-4fc4-9f63-a0f8024fbef6)
+![Screenshot 2024-03-13 002541](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/13506cdd-447c-4fdf-8f36-21e8ebd5d43e)
+
 
 
 
