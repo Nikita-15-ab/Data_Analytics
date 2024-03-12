@@ -20,5 +20,7 @@
 
 6. To get unique values from the table(DISTINCT)
 
+![Screenshot 2024-03-12 233834](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/d6d709cf-2d10-48a1-b52c-333beecd75d5)
+
    
 
