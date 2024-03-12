@@ -5,3 +5,7 @@
 3. Create new Table using New Query in SSMS
 
 ![Screenshot 2024-03-12 225409](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/9517e4db-fda7-4d30-884c-f772dd164b93)
+
+4. Insert values into Table
+
+   
