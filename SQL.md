@@ -26,7 +26,10 @@
 
 ![Screenshot 2024-03-12 235215](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/262c3102-32f8-4813-986a-ceef31e2acd6)
 
-8. Use of WHERE 
+8. Use of WHERE
+
+![Screenshot 2024-03-13 001904](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/70557d22-2080-4fc4-9f63-a0f8024fbef6)
+
 
 
    
