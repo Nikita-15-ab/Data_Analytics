@@ -12,6 +12,10 @@
 
 ![Screenshot 2024-03-12 231212](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/10605be1-a269-4e96-bbe5-11b01e04a554)
 
+5. To fetch data from table
 
+![Screenshot 2024-03-12 233037](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/4f1c7ee1-10d5-4d67-964a-ddf5e22bc9ae)
+
+![Screenshot 2024-03-12 233140](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/c27e7b26-ecfb-4750-a8a4-0d37c39943d2)
 
    
