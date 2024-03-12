@@ -24,7 +24,9 @@
 
 7. To count the number of columns for any specific row(COUNT())
 
-   ![Screenshot 2024-03-12 235215](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/262c3102-32f8-4813-986a-ceef31e2acd6)
+![Screenshot 2024-03-12 235215](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/262c3102-32f8-4813-986a-ceef31e2acd6)
+
+8. Use of WHERE 
 
 
    
