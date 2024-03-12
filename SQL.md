@@ -8,4 +8,8 @@
 
 4. Insert values into Table
 
+![Screenshot 2024-03-12 231044](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/0ccbe8ee-c50b-411b-ab03-a74c75c9ffe0)
+
+![Screenshot 2024-03-12 231212](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/10605be1-a269-4e96-bbe5-11b01e04a554)
+
    
