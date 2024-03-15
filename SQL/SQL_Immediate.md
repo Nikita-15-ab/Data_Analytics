@@ -16,4 +16,6 @@
 
 Like in given below we arfe going to inc salary on the bases of job title
 
+![Screenshot 2024-03-15 184755](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/9f9bc221-da3a-4d8a-a0dd-25e126d80eac)
+
 
