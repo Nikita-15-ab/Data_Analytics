@@ -6,5 +6,5 @@
 
 2.UNION(It is like JOINS but the columun no in both the table should be same)
 
-
+![Screenshot 2024-03-15 131809](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/37bfa390-d741-4092-bf49-1ce38f1abcfe)
 
