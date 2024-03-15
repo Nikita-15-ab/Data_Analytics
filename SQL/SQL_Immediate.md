@@ -8,3 +8,6 @@
 
 ![Screenshot 2024-03-15 131809](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/37bfa390-d741-4092-bf49-1ce38f1abcfe)
 
+3.UNION(If we want to combine different col no tables then)
+
+![Screenshot 2024-03-15 132345](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/a72d8c44-7af6-4fef-ab6b-79d2a32356ed)
