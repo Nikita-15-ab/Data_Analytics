@@ -11,3 +11,9 @@
 3.UNION(If we want to combine different col no tables then)
 
 ![Screenshot 2024-03-15 132345](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/a72d8c44-7af6-4fef-ab6b-79d2a32356ed)
+
+4.CASE Statement (Uses when we want to get data on the bases of some kind of conditions)
+
+Like in given below we arfe going to inc salary on the bases of job title
+
+
