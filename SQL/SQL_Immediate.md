@@ -4,3 +4,7 @@
 
 ![Screenshot 2024-03-14 115435](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/f0087f9c-e5ca-4255-b65c-52ed436e6932)
 
+2.UNION(It is like JOINS but the columun no in both the table should be same)
+
+
+
