@@ -22,5 +22,13 @@ Like in given below we arfe going to inc salary on the bases of job title
 
 ![Screenshot 2024-03-22 235041](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/1b1e05f9-a51f-44c3-8579-a9a0a1027fcf)
 
+6. Updating/Deleting Data
+
+![Screenshot 2024-03-23 005007](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/95682c3f-28de-44b9-a2d5-94b64a6da014)
+
+7. Aliasing(Do column name change or table name on temporaey basis and it will not effect the real output)
+
+
+
 
 
