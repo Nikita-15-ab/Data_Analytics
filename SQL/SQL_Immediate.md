@@ -18,4 +18,9 @@ Like in given below we arfe going to inc salary on the bases of job title
 
 ![Screenshot 2024-03-15 184755](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/9f9bc221-da3a-4d8a-a0dd-25e126d80eac)
 
+5.HAVING Clause
+
+![Screenshot 2024-03-22 235041](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/1b1e05f9-a51f-44c3-8579-a9a0a1027fcf)
+
+
 
