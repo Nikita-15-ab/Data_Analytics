@@ -30,6 +30,11 @@ Like in given below we arfe going to inc salary on the bases of job title
 
 ![Screenshot 2024-03-23 012729](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/e0769680-dc08-44f3-bd48-467fecb857af)
 
+![Screenshot 2024-03-23 111808](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/d019777e-af83-4ffb-afcc-da3c0f1af761)
+
+![Screenshot 2024-03-23 112811](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/b720fbcd-1828-408e-a453-1a1e6a8606fb)
+
+
 
 
 
