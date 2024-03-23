@@ -28,6 +28,8 @@ Like in given below we arfe going to inc salary on the bases of job title
 
 7. Aliasing(Do column name change or table name on temporaey basis and it will not effect the real output)
 
+![Screenshot 2024-03-23 012729](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/e0769680-dc08-44f3-bd48-467fecb857af)
+
 
 
 
