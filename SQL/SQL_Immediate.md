@@ -34,6 +34,11 @@ Like in given below we arfe going to inc salary on the bases of job title
 
 ![Screenshot 2024-03-23 112811](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/b720fbcd-1828-408e-a453-1a1e6a8606fb)
 
+8. Partition By(It is similar to Group By)
+
+![Screenshot 2024-03-24 114149](https://github.com/Nikita-15-ab/Data_Analytics/assets/126350305/d1b5d8dd-b105-40d6-989f-dda28b863206)
+
+
 
 
 
